@@ -1,16 +1,12 @@
-## Hi there 👋
+## Hi there, I’m Vivian! 👋
 
-<!--
-**Vivian-Chepngeno/Vivian-Chepngeno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on enhancing my Python skills with advanced data analysis and automation projects, and exploring new features in Power BI.  
+🌱 I’m currently learning about the latest developments in data engineering and machine learning.  
+👯 I’m looking to collaborate on projects involving data visualization, workflow automation, and Python-based applications.  
+🤔 I’m looking for help with optimizing performance in complex Python applications and integrating new technologies into existing workflows.  
+💬 Ask me about Python (Django Framework, Pandas), Power BI, or how to tackle data-related challenges.  
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/vivian-chepngeno/) or via email at your.vivianneno29@gmail.com  
+😄 Pronouns: she/her  
+⚡ Fun fact: I love solving puzzles and learning new programming languages in my spare time.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Vivian-Chepngeno's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vivian-Chepngeno&show_icons=true&count_private=true&hide=prs&hide_title=true&theme=radical)
