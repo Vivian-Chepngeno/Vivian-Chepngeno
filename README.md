@@ -1,4 +1,4 @@
-## Hi there, I’m Vivian! 
+## Hi there, I’m Vivian ! 
 
 🔭 I’m currently working on enhancing my Python skills with advanced data analysis and automation projects, and exploring new features in Power BI.  
 🌱 I’m currently learning about the latest developments in data engineering and machine learning.  
